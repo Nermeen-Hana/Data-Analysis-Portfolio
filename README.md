@@ -1,7 +1,7 @@
 # 📊 Data Analysis Portfolio
 
 Hi there! 👋  
-Welcome to my **Data Analysis Portfolio**, a curated collection of my projects showcasing my skills across **Excel, SQL, Python, and Tableau**. This repo is more than raw files—it’s a reflection of how I grow through data, from messy spreadsheets to clear, insightful stories.
+Welcome to my **Data Analysis Portfolio**, a curated collection of my projects showcasing my skills across **Excel, SQL, Python, and Tableau**. This repo is more than raw files, it’s a reflection of how I grow through data, from messy spreadsheets to clear, insightful stories.
 
 ## 🚀 About This Repository
 
@@ -9,7 +9,7 @@ Inside, you'll find the tools and techniques I’ve used to:
 
 - Explore real-world datasets  
 - Clean, transform, and analyze data using Excel formulas, SQL queries, and Python scripts  
-- Build compelling visualizations in Tableau (and sometimes in Python)  
+- Build compelling visualizations in Tableau and Power BI (and sometimes in Python)  
 - Highlight key findings via narratives, visuals, or dashboards  
 
 Each tool has its own space:
@@ -17,7 +17,8 @@ Each tool has its own space:
 - **Excel**: Dashboards, pivot tables, advanced formulas—done right.  
 - **SQL**: Smart queries, schema exploration, data wrangling, and optimized solutions.  
 - **Python**: Data munging, analysis, and visualization using Pandas, NumPy, Matplotlib, and Seaborn.  
-- **Tableau**: Interactive visual stories that invite exploration.  
+- **Tableau**: Interactive visual stories that invite exploration.
+- **Power BI**: Dynamic reports, real-time dashboards, and insightful business intelligence.
 
 
 ## 🎯 Why This Matters
