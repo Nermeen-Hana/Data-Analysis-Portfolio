@@ -14,7 +14,7 @@ Inside, you'll find the tools and techniques I’ve used to:
 
 Each tool has its own space:
 
-- **Excel**: Dashboards, pivot tables, advanced formulas—done right.  
+- **Excel**: Dashboards, pivot tables, advanced formulas done right.  
 - **SQL**: Smart queries, schema exploration, data wrangling, and optimized solutions.  
 - **Python**: Data munging, analysis, and visualization using Pandas, NumPy, Matplotlib, and Seaborn.  
 - **Tableau**: Interactive visual stories that invite exploration.
@@ -25,7 +25,7 @@ Each tool has its own space:
 
 This portfolio shines a light on what I can do:
 
-- Work confidently across Excel, SQL, Python, and Tableau  
+- Work confidently across Excel, SQL, Python, Tableau and Power BI  
 - Tackle unstructured problems with analytical methods  
 - Communicate effectively through visuals and clear explanations  
 
