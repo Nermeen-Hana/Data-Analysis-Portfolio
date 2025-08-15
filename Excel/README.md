@@ -37,9 +37,6 @@ It provides insights into top-selling products, customer distribution, and sales
 - California is the highest revenue-generating state with over $390K in sales.  
 - Sales show a steady upward trend over the year, with December peaking.
 
-### 🖼 Dashboard Preview
-![Sales & Profit Dashboard](Profit_Sales_Screenshot.png)
-
 ---
 
 ## 🚴‍♂️ Bike Sales Dashboard
@@ -67,9 +64,6 @@ An interactive Excel dashboard analyzing bike purchase trends based on customer 
 - Higher-income individuals are more likely to purchase bikes.
 - Commute distance plays a significant role — most purchases occur for short commutes (0–1 miles).
 - Middle-aged adults form the largest purchasing group.
-
-### 🖼 Dashboard Preview
-![Bike Sales Dashboard](Bike_Sales_Screenshot.png)
 
 ---
 
@@ -99,8 +93,6 @@ An interactive Excel dashboard visualizing global renewable energy trends betwee
 - Europe and Asia lead in renewable capacity.
 - Investment is concentrated in specific countries (e.g., Brazil, Egypt, France, Nigeria, Pakistan).
 
-### 🖼 Dashboard Preview
-![Renewable Energy Dashboard](Renewable_Energy_Screenshot.png)
 
 ---
 
